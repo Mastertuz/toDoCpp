@@ -1,0 +1,96 @@
+# ninja log v6
+8	699	7630700231112027	todoCpp_autogen/timestamp	6723f3e8b52f55e4
+8	699	7630700231112027	todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+8	699	7630700231112027	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/timestamp	6723f3e8b52f55e4
+8	699	7630700231112027	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+707	2967	7630700232055964	CMakeFiles/todoCpp.dir/main.cpp.obj	cac514c7eca4772
+703	2972	7630700232016353	CMakeFiles/todoCpp.dir/todoCpp_autogen/mocs_compilation.cpp.obj	7adb9f22ae7443a6
+711	3119	7630700232095986	CMakeFiles/todoCpp.dir/mainwindow.cpp.obj	cb26270bc6179010
+3119	3342	7630700256167509	todoCpp.exe	f7cfc1ce92b8a98a
+33	248	7630702945275313	todoCpp_autogen/timestamp	6723f3e8b52f55e4
+33	248	7630702945275313	todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+33	248	7630702945275313	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/timestamp	6723f3e8b52f55e4
+33	248	7630702945275313	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+249	2807	7630702947443530	CMakeFiles/todoCpp.dir/mainwindow.cpp.obj	cb26270bc6179010
+2807	2964	7630702973023317	todoCpp.exe	f7cfc1ce92b8a98a
+34	686	7630704223786870	todoCpp_autogen/timestamp	6723f3e8b52f55e4
+34	686	7630704223786870	todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+34	686	7630704223786870	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/timestamp	6723f3e8b52f55e4
+34	686	7630704223786870	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+687	3027	7630704224641443	CMakeFiles/todoCpp.dir/todoCpp_autogen/mocs_compilation.cpp.obj	7adb9f22ae7443a6
+690	3053	7630704224671499	CMakeFiles/todoCpp.dir/main.cpp.obj	cac514c7eca4772
+33	210	7630704350105554	todoCpp_autogen/timestamp	6723f3e8b52f55e4
+33	210	7630704350105554	todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+33	210	7630704350105554	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/timestamp	6723f3e8b52f55e4
+33	210	7630704350105554	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+211	2712	7630704351875403	CMakeFiles/todoCpp.dir/mainwindow.cpp.obj	cb26270bc6179010
+2712	2865	7630704376891457	todoCpp.exe	f7cfc1ce92b8a98a
+34	218	7630706231930562	todoCpp_autogen/timestamp	6723f3e8b52f55e4
+34	218	7630706231930562	todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+34	218	7630706231930562	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/timestamp	6723f3e8b52f55e4
+34	218	7630706231930562	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+219	2750	7630706233767705	CMakeFiles/todoCpp.dir/mainwindow.cpp.obj	cb26270bc6179010
+2750	2905	7630706259078765	todoCpp.exe	f7cfc1ce92b8a98a
+35	680	7630722687960746	todoCpp_autogen/timestamp	6723f3e8b52f55e4
+35	680	7630722687960746	todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+35	680	7630722687960746	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/timestamp	6723f3e8b52f55e4
+35	680	7630722687960746	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+681	2976	7630722688788843	CMakeFiles/todoCpp.dir/todoCpp_autogen/mocs_compilation.cpp.obj	7adb9f22ae7443a6
+685	2990	7630722688828530	CMakeFiles/todoCpp.dir/main.cpp.obj	cac514c7eca4772
+688	3557	7630722688868530	CMakeFiles/todoCpp.dir/mainwindow.cpp.obj	cb26270bc6179010
+37	212	7630723265096621	todoCpp_autogen/timestamp	6723f3e8b52f55e4
+37	212	7630723265096621	todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+37	212	7630723265096621	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/timestamp	6723f3e8b52f55e4
+37	212	7630723265096621	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+213	2682	7630723266856210	CMakeFiles/todoCpp.dir/mainwindow.cpp.obj	cb26270bc6179010
+35	210	7630723397865967	todoCpp_autogen/timestamp	6723f3e8b52f55e4
+35	210	7630723397865967	todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+35	210	7630723397865967	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/timestamp	6723f3e8b52f55e4
+35	210	7630723397865967	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+210	2766	7630723399618910	CMakeFiles/todoCpp.dir/mainwindow.cpp.obj	cb26270bc6179010
+14	207	7630723835463195	todoCpp_autogen/timestamp	6723f3e8b52f55e4
+14	207	7630723835463195	todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+14	207	7630723835463195	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/timestamp	6723f3e8b52f55e4
+14	207	7630723835463195	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+208	2649	7630723837399205	CMakeFiles/todoCpp.dir/mainwindow.cpp.obj	cb26270bc6179010
+33	236	7630724017150740	todoCpp_autogen/timestamp	6723f3e8b52f55e4
+33	236	7630724017150740	todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+33	236	7630724017150740	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/timestamp	6723f3e8b52f55e4
+33	236	7630724017150740	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+236	2714	7630724019188229	CMakeFiles/todoCpp.dir/mainwindow.cpp.obj	cb26270bc6179010
+14	636	7630726014681118	todoCpp_autogen/timestamp	6723f3e8b52f55e4
+14	636	7630726014681118	todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+14	636	7630726014681118	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/timestamp	6723f3e8b52f55e4
+14	636	7630726014681118	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+637	2824	7630726015533888	CMakeFiles/todoCpp.dir/todoCpp_autogen/mocs_compilation.cpp.obj	7adb9f22ae7443a6
+640	2835	7630726015564525	CMakeFiles/todoCpp.dir/main.cpp.obj	cac514c7eca4772
+644	3401	7630726015600602	CMakeFiles/todoCpp.dir/mainwindow.cpp.obj	cb26270bc6179010
+3401	3550	7630726043170684	todoCpp.exe	f7cfc1ce92b8a98a
+39	688	7630737667363840	todoCpp_autogen/timestamp	6723f3e8b52f55e4
+39	688	7630737667363840	todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+39	688	7630737667363840	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/timestamp	6723f3e8b52f55e4
+39	688	7630737667363840	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+689	2918	7630737668242629	CMakeFiles/todoCpp.dir/todoCpp_autogen/mocs_compilation.cpp.obj	7adb9f22ae7443a6
+692	2925	7630737668279375	CMakeFiles/todoCpp.dir/main.cpp.obj	cac514c7eca4772
+38	214	7630738659716187	todoCpp_autogen/timestamp	6723f3e8b52f55e4
+38	214	7630738659716187	todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+38	214	7630738659716187	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/timestamp	6723f3e8b52f55e4
+38	214	7630738659716187	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+215	2859	7630738661475210	CMakeFiles/todoCpp.dir/mainwindow.cpp.obj	cb26270bc6179010
+2859	3021	7630738687925903	todoCpp.exe	f7cfc1ce92b8a98a
+34	213	7630744958324459	todoCpp_autogen/timestamp	6723f3e8b52f55e4
+34	213	7630744958324459	todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+34	213	7630744958324459	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/timestamp	6723f3e8b52f55e4
+34	213	7630744958324459	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+36	208	7630745590428762	todoCpp_autogen/timestamp	6723f3e8b52f55e4
+36	208	7630745590428762	todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+36	208	7630745590428762	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/timestamp	6723f3e8b52f55e4
+36	208	7630745590428762	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+209	3222	7630745592146476	CMakeFiles/todoCpp.dir/mainwindow.cpp.obj	cb26270bc6179010
+3222	3374	7630745622286860	todoCpp.exe	f7cfc1ce92b8a98a
+35	213	7630748119280291	todoCpp_autogen/timestamp	6723f3e8b52f55e4
+35	213	7630748119280291	todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+35	213	7630748119280291	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/timestamp	6723f3e8b52f55e4
+35	213	7630748119280291	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+213	3383	7630748121070439	CMakeFiles/todoCpp.dir/mainwindow.cpp.obj	cb26270bc6179010
+3384	3553	7630748152769348	todoCpp.exe	f7cfc1ce92b8a98a
