@@ -307,6 +307,7 @@ C:/mirea/c++\ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-D
   C:/msys64/mingw64/include/qt6/QtCore/qtversionchecks.h \
   C:/msys64/mingw64/include/qt6/QtCore/qtypeinfo.h \
   C:/msys64/mingw64/include/qt6/QtCore/qtypes.h \
+  C:/msys64/mingw64/include/qt6/QtCore/qurl.h \
   C:/msys64/mingw64/include/qt6/QtCore/qutf8stringview.h \
   C:/msys64/mingw64/include/qt6/QtCore/qvariant.h \
   C:/msys64/mingw64/include/qt6/QtCore/qvarlengtharray.h \
@@ -326,12 +327,17 @@ C:/mirea/c++\ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-D
   C:/msys64/mingw64/include/qt6/QtGui/qkeysequence.h \
   C:/msys64/mingw64/include/qt6/QtGui/qpaintdevice.h \
   C:/msys64/mingw64/include/qt6/QtGui/qpalette.h \
+  C:/msys64/mingw64/include/qt6/QtGui/qpen.h \
   C:/msys64/mingw64/include/qt6/QtGui/qpixelformat.h \
   C:/msys64/mingw64/include/qt6/QtGui/qpixmap.h \
   C:/msys64/mingw64/include/qt6/QtGui/qpolygon.h \
   C:/msys64/mingw64/include/qt6/QtGui/qregion.h \
   C:/msys64/mingw64/include/qt6/QtGui/qrgb.h \
   C:/msys64/mingw64/include/qt6/QtGui/qrgba64.h \
+  C:/msys64/mingw64/include/qt6/QtGui/qtextcursor.h \
+  C:/msys64/mingw64/include/qt6/QtGui/qtextdocument.h \
+  C:/msys64/mingw64/include/qt6/QtGui/qtextformat.h \
+  C:/msys64/mingw64/include/qt6/QtGui/qtextoption.h \
   C:/msys64/mingw64/include/qt6/QtGui/qtgui-config.h \
   C:/msys64/mingw64/include/qt6/QtGui/qtguiexports.h \
   C:/msys64/mingw64/include/qt6/QtGui/qtguiglobal.h \
@@ -339,17 +345,22 @@ C:/mirea/c++\ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-D
   C:/msys64/mingw64/include/qt6/QtGui/qvalidator.h \
   C:/msys64/mingw64/include/qt6/QtGui/qwindowdefs.h \
   C:/msys64/mingw64/include/qt6/QtGui/qwindowdefs_win.h \
-  C:/msys64/mingw64/include/qt6/QtWidgets/QListWidgetItem \
+  C:/msys64/mingw64/include/qt6/QtWidgets/QLineEdit \
+  C:/msys64/mingw64/include/qt6/QtWidgets/QListWidget \
   C:/msys64/mingw64/include/qt6/QtWidgets/QMainWindow \
+  C:/msys64/mingw64/include/qt6/QtWidgets/QPushButton \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qabstractbutton.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qabstractitemdelegate.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qabstractitemview.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qabstractscrollarea.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qabstractslider.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qabstractspinbox.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qframe.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qlineedit.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qlistview.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qlistwidget.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qmainwindow.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qpushbutton.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qrubberband.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qsizepolicy.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qslider.h \

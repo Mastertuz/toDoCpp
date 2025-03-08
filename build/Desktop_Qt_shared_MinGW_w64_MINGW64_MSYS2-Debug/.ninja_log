@@ -1,18 +1,18 @@
 # ninja log v6
-63	74	7630816175404234	clean	9c4b4372737ab8da
-25	63	7630816175027529	CMakeFiles/clean.additional	7155004b3956b606
+3934	4115	7631308035208335	todoCpp.exe	f7cfc1ce92b8a98a
+814	3399	7631303495614340	CMakeFiles/todoCpp.dir/main.cpp.obj	cac514c7eca4772
+810	3411	7631303495582338	CMakeFiles/todoCpp.dir/todoCpp_autogen/mocs_compilation.cpp.obj	7adb9f22ae7443a6
+35	210	7631307996217004	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+35	210	7631307996217004	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/timestamp	6723f3e8b52f55e4
+211	3934	7631307997976681	CMakeFiles/todoCpp.dir/mainwindow.cpp.obj	cb26270bc6179010
+35	210	7631307996217004	todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+35	210	7631307996217004	todoCpp_autogen/timestamp	6723f3e8b52f55e4
 766	3414	7630816213984030	CMakeFiles/todoCpp.dir/customtodoitem.cpp.obj	c62070d81bded784
-33	240	7631294445071078	todoCpp_autogen/timestamp	6723f3e8b52f55e4
-33	240	7631294445071078	todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
-241	3566	7631294447145747	CMakeFiles/todoCpp.dir/mainwindow.cpp.obj	cb26270bc6179010
-33	240	7631294445071078	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/timestamp	6723f3e8b52f55e4
-33	240	7631294445071078	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
-769	3386	7631288904681848	CMakeFiles/todoCpp.dir/todoCpp_autogen/mocs_compilation.cpp.obj	7adb9f22ae7443a6
-772	3375	7631288904717193	CMakeFiles/todoCpp.dir/main.cpp.obj	cac514c7eca4772
-3566	3753	7631294480403243	todoCpp.exe	f7cfc1ce92b8a98a
-36	216	7631296436605994	todoCpp_autogen/timestamp	6723f3e8b52f55e4
-36	216	7631296436605994	todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
-36	216	7631296436605994	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/timestamp	6723f3e8b52f55e4
-36	216	7631296436605994	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
-217	3647	7631296438411915	CMakeFiles/todoCpp.dir/mainwindow.cpp.obj	cb26270bc6179010
-3647	3824	7631296472713680	todoCpp.exe	f7cfc1ce92b8a98a
+25	63	7630816175027529	CMakeFiles/clean.additional	7155004b3956b606
+63	74	7630816175404234	clean	9c4b4372737ab8da
+14	186	7631312763650438	todoCpp_autogen/timestamp	6723f3e8b52f55e4
+14	186	7631312763650438	todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+14	186	7631312763650438	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/timestamp	6723f3e8b52f55e4
+14	186	7631312763650438	C:/mirea/c++ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/todoCpp_autogen/mocs_compilation.cpp	6723f3e8b52f55e4
+186	4052	7631312765369745	CMakeFiles/todoCpp.dir/mainwindow.cpp.obj	cb26270bc6179010
+4052	4239	7631312804025237	todoCpp.exe	f7cfc1ce92b8a98a

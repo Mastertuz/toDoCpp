@@ -5,6 +5,10 @@
 #include <QMessageBox>
 #include <QStyledItemDelegate>
 #include <QPainter>
+#include <QFile>
+#include <QJsonArray>
+#include <QJsonObject>
+#include <QJsonDocument>
 
 // Custom delegate to style list items
 class CustomItemDelegate : public QStyledItemDelegate {
@@ -48,8 +52,9 @@ MainWindow::MainWindow(QWidget *parent)
     connect(ui->removeButton, &QPushButton::clicked, this, &MainWindow::removeTask);
     connect(ui->removeAllButton, &QPushButton::clicked, this, &MainWindow::removeAllTasks);
 
-    // Apply styles
+    // Apply styles (same as before)
     setStyleSheet(
+        // Main window background
         // Main window background
         "QMainWindow {"
         "   background: #0D0714;"
@@ -99,17 +104,25 @@ MainWindow::MainWindow(QWidget *parent)
         "}"
         "QListWidget::item:selected {"
         "   background-color: #15101C;"
+        "color:#3E1671;"
         "   border: none;"
         "   outline: none;"
         "}"
         "QListView{"
         "outline:none;"
+
         "}"
+        // (continue your styles here, same as before)
         );
+
+    // Load the tasks from file
+    loadTasks();
 }
 
 MainWindow::~MainWindow()
 {
+    // Save tasks when the window is closed
+    saveTasks();
     delete ui;
 }
 
@@ -160,5 +173,51 @@ void MainWindow::removeAllTasks()
 {
     if (QMessageBox::question(this, tr("Remove All Tasks"), tr("Are you sure you want to remove all tasks?"), QMessageBox::Yes | QMessageBox::No) == QMessageBox::Yes) {
         ui->taskList->clear();
+    }
+}
+
+// Save the tasks to a JSON file
+void MainWindow::saveTasks()
+{
+    QJsonArray tasksArray;
+
+    for (int row = 0; row < ui->taskList->count(); ++row) {
+        QListWidgetItem *item = ui->taskList->item(row);
+        QJsonObject taskObject;
+        taskObject["task"] = item->text();
+        taskObject["done"] = item->checkState() == Qt::Checked;
+        tasksArray.append(taskObject);
+    }
+
+    QJsonDocument doc(tasksArray);
+    QFile file("tasks.json");
+    if (file.open(QIODevice::WriteOnly)) {
+        file.write(doc.toJson());
+        file.close();
+    }
+}
+
+// Load tasks from a JSON file
+void MainWindow::loadTasks()
+{
+    QFile file("tasks.json");
+    if (file.exists() && file.open(QIODevice::ReadOnly)) {
+        QByteArray data = file.readAll();
+        QJsonDocument doc = QJsonDocument::fromJson(data);
+        if (doc.isArray()) {
+            QJsonArray tasksArray = doc.array();
+            for (const QJsonValue &value : tasksArray) {
+                if (value.isObject()) {
+                    QJsonObject taskObject = value.toObject();
+                    QString taskText = taskObject["task"].toString();
+                    bool isDone = taskObject["done"].toBool();
+
+                    QListWidgetItem *item = new QListWidgetItem(taskText, ui->taskList);
+                    item->setFlags(item->flags() | Qt::ItemIsUserCheckable);
+                    item->setCheckState(isDone ? Qt::Checked : Qt::Unchecked);
+                }
+            }
+        }
+        file.close();
     }
 }

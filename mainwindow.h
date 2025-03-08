@@ -2,18 +2,20 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include <QListWidgetItem>
+#include <QListWidget>
+#include <QPushButton>
+#include <QLineEdit>
 
-QT_BEGIN_NAMESPACE
-namespace Ui { class MainWindow; }
-QT_END_NAMESPACE
+namespace Ui {
+class MainWindow;
+}
 
 class MainWindow : public QMainWindow
 {
     Q_OBJECT
 
 public:
-    MainWindow(QWidget *parent = nullptr);
+    explicit MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
 private slots:
@@ -25,6 +27,10 @@ private slots:
 
 private:
     Ui::MainWindow *ui;
+
+    // Declare the save and load functions here
+    void saveTasks();
+    void loadTasks();
 };
 
 #endif // MAINWINDOW_H
