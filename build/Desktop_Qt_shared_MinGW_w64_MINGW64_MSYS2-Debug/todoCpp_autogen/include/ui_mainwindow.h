@@ -23,34 +23,42 @@ class Ui_MainWindow
 {
 public:
     QWidget *centralwidget;
-    QLineEdit *txtTask;
+    QLineEdit *taskInput;
+    QListWidget *taskList;
     QPushButton *addButton;
-    QListWidget *listWidget;
-    QPushButton *clearBtn;
-    QPushButton *clearAllBtn;
+    QPushButton *doneButton;
+    QPushButton *editButton;
+    QPushButton *removeButton;
+    QPushButton *removeAllButton;
 
     void setupUi(QMainWindow *MainWindow)
     {
         if (MainWindow->objectName().isEmpty())
             MainWindow->setObjectName("MainWindow");
-        MainWindow->resize(800, 600);
+        MainWindow->resize(1092, 1112);
         centralwidget = new QWidget(MainWindow);
         centralwidget->setObjectName("centralwidget");
-        txtTask = new QLineEdit(centralwidget);
-        txtTask->setObjectName("txtTask");
-        txtTask->setGeometry(QRect(30, 30, 581, 28));
+        taskInput = new QLineEdit(centralwidget);
+        taskInput->setObjectName("taskInput");
+        taskInput->setGeometry(QRect(300, 7, 351, 41));
+        taskList = new QListWidget(centralwidget);
+        taskList->setObjectName("taskList");
+        taskList->setGeometry(QRect(300, 60, 441, 541));
         addButton = new QPushButton(centralwidget);
         addButton->setObjectName("addButton");
-        addButton->setGeometry(QRect(640, 30, 83, 29));
-        listWidget = new QListWidget(centralwidget);
-        listWidget->setObjectName("listWidget");
-        listWidget->setGeometry(QRect(30, 80, 581, 451));
-        clearBtn = new QPushButton(centralwidget);
-        clearBtn->setObjectName("clearBtn");
-        clearBtn->setGeometry(QRect(440, 540, 83, 29));
-        clearAllBtn = new QPushButton(centralwidget);
-        clearAllBtn->setObjectName("clearAllBtn");
-        clearAllBtn->setGeometry(QRect(540, 540, 83, 29));
+        addButton->setGeometry(QRect(660, 8, 83, 41));
+        doneButton = new QPushButton(centralwidget);
+        doneButton->setObjectName("doneButton");
+        doneButton->setGeometry(QRect(360, 610, 83, 29));
+        editButton = new QPushButton(centralwidget);
+        editButton->setObjectName("editButton");
+        editButton->setGeometry(QRect(450, 610, 83, 29));
+        removeButton = new QPushButton(centralwidget);
+        removeButton->setObjectName("removeButton");
+        removeButton->setGeometry(QRect(540, 610, 83, 29));
+        removeAllButton = new QPushButton(centralwidget);
+        removeAllButton->setObjectName("removeAllButton");
+        removeAllButton->setGeometry(QRect(632, 610, 111, 29));
         MainWindow->setCentralWidget(centralwidget);
 
         retranslateUi(MainWindow);
@@ -62,8 +70,10 @@ public:
     {
         MainWindow->setWindowTitle(QCoreApplication::translate("MainWindow", "MainWindow", nullptr));
         addButton->setText(QCoreApplication::translate("MainWindow", "Add", nullptr));
-        clearBtn->setText(QCoreApplication::translate("MainWindow", "clear", nullptr));
-        clearAllBtn->setText(QCoreApplication::translate("MainWindow", "clear All", nullptr));
+        doneButton->setText(QCoreApplication::translate("MainWindow", "Done", nullptr));
+        editButton->setText(QCoreApplication::translate("MainWindow", "Edit", nullptr));
+        removeButton->setText(QCoreApplication::translate("MainWindow", "remove", nullptr));
+        removeAllButton->setText(QCoreApplication::translate("MainWindow", "remove all", nullptr));
     } // retranslateUi
 
 };

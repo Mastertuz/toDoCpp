@@ -194,6 +194,7 @@ C:/mirea/c++\ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-D
   C:/msys64/mingw64/include/qt6/QtCore/q20memory.h \
   C:/msys64/mingw64/include/qt6/QtCore/q20type_traits.h \
   C:/msys64/mingw64/include/qt6/QtCore/q23utility.h \
+  C:/msys64/mingw64/include/qt6/QtCore/qabstractitemmodel.h \
   C:/msys64/mingw64/include/qt6/QtCore/qalgorithms.h \
   C:/msys64/mingw64/include/qt6/QtCore/qanystringview.h \
   C:/msys64/mingw64/include/qt6/QtCore/qarraydata.h \
@@ -235,11 +236,13 @@ C:/mirea/c++\ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-D
   C:/msys64/mingw64/include/qt6/QtCore/qhash.h \
   C:/msys64/mingw64/include/qt6/QtCore/qhashfunctions.h \
   C:/msys64/mingw64/include/qt6/QtCore/qiodevicebase.h \
+  C:/msys64/mingw64/include/qt6/QtCore/qitemselectionmodel.h \
   C:/msys64/mingw64/include/qt6/QtCore/qiterable.h \
   C:/msys64/mingw64/include/qt6/QtCore/qiterator.h \
   C:/msys64/mingw64/include/qt6/QtCore/qlatin1stringview.h \
   C:/msys64/mingw64/include/qt6/QtCore/qline.h \
   C:/msys64/mingw64/include/qt6/QtCore/qlist.h \
+  C:/msys64/mingw64/include/qt6/QtCore/qlocale.h \
   C:/msys64/mingw64/include/qt6/QtCore/qlogging.h \
   C:/msys64/mingw64/include/qt6/QtCore/qmalloc.h \
   C:/msys64/mingw64/include/qt6/QtCore/qmap.h \
@@ -260,6 +263,7 @@ C:/mirea/c++\ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-D
   C:/msys64/mingw64/include/qt6/QtCore/qprocessordetection.h \
   C:/msys64/mingw64/include/qt6/QtCore/qrect.h \
   C:/msys64/mingw64/include/qt6/QtCore/qrefcount.h \
+  C:/msys64/mingw64/include/qt6/QtCore/qregularexpression.h \
   C:/msys64/mingw64/include/qt6/QtCore/qscopedpointer.h \
   C:/msys64/mingw64/include/qt6/QtCore/qscopeguard.h \
   C:/msys64/mingw64/include/qt6/QtCore/qset.h \
@@ -332,11 +336,26 @@ C:/mirea/c++\ projects/todoCpp/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-D
   C:/msys64/mingw64/include/qt6/QtGui/qtguiexports.h \
   C:/msys64/mingw64/include/qt6/QtGui/qtguiglobal.h \
   C:/msys64/mingw64/include/qt6/QtGui/qtransform.h \
+  C:/msys64/mingw64/include/qt6/QtGui/qvalidator.h \
   C:/msys64/mingw64/include/qt6/QtGui/qwindowdefs.h \
   C:/msys64/mingw64/include/qt6/QtGui/qwindowdefs_win.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/QListWidgetItem \
   C:/msys64/mingw64/include/qt6/QtWidgets/QMainWindow \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qabstractitemdelegate.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qabstractitemview.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qabstractscrollarea.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qabstractslider.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qabstractspinbox.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qframe.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qlistview.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qlistwidget.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qmainwindow.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qrubberband.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qsizepolicy.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qslider.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qstyle.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qstyleoption.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qtabbar.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qtabwidget.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qtwidgets-config.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qtwidgetsexports.h \
